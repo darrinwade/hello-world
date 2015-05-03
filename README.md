@@ -1,2 +1,6 @@
 # hello-world
 Sample repository designed to help me better understand GitHub...
+
+F. Darrin Wade
+
+Making changes to the Readme file...
